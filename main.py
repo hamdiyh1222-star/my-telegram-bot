@@ -8,7 +8,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 TOKEN = '8772711375:AAHzZDZPT8FrVmvvOmLiGrhtB5B8TbwG_Yo'
 
 # 2. Replace with your __test cookie value from your browser
-MY_COOKIE = 'PASTE_YOUR_COOKIE_HERE'
+MY_COOKIE = 'a07d21a061619f7edfb1be69af1f5f8'
 # =================================================
 
 # Enable logging to see what the bot is doing in the Koyeb logs
